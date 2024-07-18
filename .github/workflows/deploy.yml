@@ -24,7 +24,7 @@ jobs:
         context: .
         file: ./docker/Dockerfile.user
         push: true
-        tags: 121je0301379/quickpay:latest
+        tags: 21je0301379/quickpay:latest 
 
     - name: Verify Pushed Image
       run: docker pull 21je0301379/quickpay:latest 
