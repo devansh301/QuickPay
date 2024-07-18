@@ -7,7 +7,7 @@ This Payment Wallet application allows users to add money from a dummy bank and 
 - **Frontend:**
   - [Next.js](https://nextjs.org/)
   - [Tailwind CSS](https://tailwindcss.com/)
-  - [Atom](https://github.com/pmndrs/jotai) (for state management)
+  - [Recoil](https://github.com/pmndrs/jotai) (for state management)
 
 - **Backend:**
   - [Express.js](https://expressjs.com/)
